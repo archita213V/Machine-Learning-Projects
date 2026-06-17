@@ -1,2 +1,10 @@
-# Machine-Learning-Projects
-A collection of Machine Learning projects and algorithms implemented using Python and Scikit-Learn.
+# Machine Learning Projects
+
+This repository contains my Machine Learning projects and practice implementations.
+
+## Projects
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- KNN
